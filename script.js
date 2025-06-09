@@ -87,5 +87,4 @@ function endQuiz() {
   scoreContainer.classList.remove("hidden");
 }
 
-// Start quiz on page load
 startQuiz();
